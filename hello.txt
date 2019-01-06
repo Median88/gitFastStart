@@ -1,3 +1,4 @@
-print("hello")
-print("hello andrey")
-print("hello Olya")
+print("hello");
+print("hello andrey");
+print("hello Olya");
+print("Hello my dear friend");
